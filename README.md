@@ -1,4 +1,5 @@
 # Car Exterior Body Parts Localization
+<a href="https://colab.research.google.com/drive/1J_-m4f9Daur02IENObVmD1rCqaJNuMlb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 A deep learning-based project that aims to localize 14 exterior car body parts in case of no or partial damage.
 
